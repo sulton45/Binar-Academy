@@ -1,0 +1,22 @@
+================================
+Konfirmasi & Pembayaran
+================================
+
+Terima kasih sudah memesan
+di Binarfund
+
+Dibawah ini adalah pesanan anda
+
+Nasi Goreng	5	75000
+Mie Goreng	5	65000
+Es Teh Manis	10	30000
+--------------------------------+
+Total		20	170000
+
+Pembayaran: BinarCash
+
+================================
+Simpan struk ini sebagai
+bukti pembayaran
+================================
+
